@@ -8,7 +8,5 @@ def genPrimes():
 	for i in range(2,ulim_loop):
 		for j in range(i,ulim):
 			x/=i
-		if x==1:
-			num.append(x)
 
 	return num	
