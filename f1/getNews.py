@@ -1,4 +1,3 @@
-
 def getWorldNews:
  # Bug fix 1
  pass
@@ -8,8 +7,10 @@ def getPoliticalNews:
  pass
 
 def getSportsNews:
- pass
+ print("This is a part of hotfix-3")
+ 
 
 def getEntertainmentNews:
+ print("This is hotfix-3")
  pass
 
