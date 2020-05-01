@@ -1,7 +1,7 @@
-def getLoginDetails():
+def getSignInDetails():
   pass
 
-def authenticateLoginDetails():
+def authenticateSignInDetails():
  pass
 
 
