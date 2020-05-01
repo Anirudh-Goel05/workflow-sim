@@ -2,7 +2,8 @@ def postNationalNews():
  pass
 
 def postSportsNews():
- pass
+ # One line has been commented and this one added
+ #pass
 
 def postInternationalNews():
  print("This was introduced by release-3")
